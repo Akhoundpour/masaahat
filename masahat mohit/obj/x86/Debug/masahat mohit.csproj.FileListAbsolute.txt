@@ -1,0 +1,11 @@
+c:\users\sajjad\documents\visual studio 2010\Projects\masahat mohit\masahat mohit\bin\Debug\masahat mohit.exe
+c:\users\sajjad\documents\visual studio 2010\Projects\masahat mohit\masahat mohit\bin\Debug\masahat mohit.pdb
+c:\users\sajjad\documents\visual studio 2010\Projects\masahat mohit\masahat mohit\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sajjad\documents\visual studio 2010\Projects\masahat mohit\masahat mohit\obj\x86\Debug\masahat mohit.exe
+c:\users\sajjad\documents\visual studio 2010\Projects\masahat mohit\masahat mohit\obj\x86\Debug\masahat mohit.pdb
+C:\Users\ITech\Desktop\masahat mohit\masahat mohit\bin\Debug\masahat mohit.exe
+C:\Users\ITech\Desktop\masahat mohit\masahat mohit\bin\Debug\masahat mohit.pdb
+C:\Users\ITech\Desktop\masahat mohit\masahat mohit\obj\x86\Debug\masahat mohit.csproj.AssemblyReference.cache
+C:\Users\ITech\Desktop\masahat mohit\masahat mohit\obj\x86\Debug\masahat mohit.csproj.CoreCompileInputs.cache
+C:\Users\ITech\Desktop\masahat mohit\masahat mohit\obj\x86\Debug\masahat mohit.exe
+C:\Users\ITech\Desktop\masahat mohit\masahat mohit\obj\x86\Debug\masahat mohit.pdb
